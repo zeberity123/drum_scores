@@ -1,0 +1,26 @@
+ssh -i ict-student-key.pem ubuntu@ec2-3-35-203-154.ap-northeast-2.compute.amazonaws.com
+
+'sha1:10e43a104376:f280896d6f670e24dd412deefe352ab6e1e07065'
+
+ict0911_06
+3.35.203.154
+172.31.24.16
+
+/usr/lib/jvm/java-8-openjdk-amd64/jre
+
+/home/ubuntu/miniconda3/envs/spark-env/bin/python
+
+
+https://docs.google.com/spreadsheets/d/1sJ5X6KdiCJVlaL8hnM0XIq4tb9Llr7nOiV5xfwuPpqE/edit#gid=0
+
+netsh wlan set autoconfig enabled=no interface=Wi-Fi
+
+ict@3.35.203.154::3306
+
+https://radial-fighter-931.notion.site/Data-Engineering-31cf63ff9ce040b59b50c61fbcb7d4ce?pvs=18
+
+https://app.slack.com/client/T05S4S3RJQ0/C05RUFNLG8H
+
+https://app.slack.com/client/T05RNSC5U85/C05SH7V8H5Z/rimeto_profile/U05UP0FNEJ2
+
+
